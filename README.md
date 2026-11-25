@@ -1,16 +1,32 @@
-## Hi there 👋
+# 硬核芒果派 · hcmango
 
-<!--
-**hcmango/hcmango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+5 年后端开发、前技术负责人，现在用 AI 转全栈做独立产品。
 
-Here are some ideas to get you started:
+这里整理 **硬核芒果派（hcmango）** 在真实上线项目里沉淀下来的开源工具、AI 编程工程规范、全栈脚手架和架构文档。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 正在做的项目（Build in Public）
+
+| 阶段 | 项目 / 开源内容 | 说明 | 状态 |
+| :---: | :--- | :--- | :---: |
+| **01** | **macOS 菜单栏额度小工具** + AI 编程 Rules | 自用 AI 额度监控小工具与工程规范（免费开源） | `🚧 整理开源中` |
+| **02** | **PS 人生奖杯系统** | 用 Agent 把目标拆成铜/银/金/白金奖杯树 + PlayStation 风格解锁动效 | `📋 排期中` |
+| **03** | **自媒体 Agent 漏斗工作台** | 面向独立创作者的选题与数据复盘工具（边自用边迭代） | `📋 规划中` |
+| **底座** | **`hcmango` AI 全栈 Starter Kit** | 从真实上线项目里抽出来的全栈脚手架与架构规范 | `📋 随项目抽离` |
+
+---
+
+## 内容更新
+
+- **B 站**：[硬核芒果派](https://space.bilibili.com/24226360)（实操录屏、成品演示与工程复盘）
+- **X（Twitter）**：[@hardcoreMG](https://x.com/hardcoreMG)（日常 Build in Public 进度与开源动态）
+- **小红书**：[硬核芒果派](https://xhslink.cn/o/AShFzx5JoPU)（产品切片与短笔记）
+- **微信公众号**：搜索 **「硬核芒果派」**（长文拆解、架构图与踩坑记录）
+
+---
+
+## 联系与合作
+
+- **交流讨论**：直接在对应仓库提 Issue，或在公众号 **「硬核芒果派」** 后台留言
+- **1v1 技术咨询 / 项目定制 / 企业 AI 内训与落地合作**：在公众号后台回复 `联系` 获取微信（不接纯人力驻场外包）
