@@ -10,7 +10,7 @@
 
 | 阶段 | 项目 / 开源内容 | 说明 | 状态 |
 | :---: | :--- | :--- | :---: |
-| **01** | [**macos-quota-menubar**](https://github.com/hcmango/macos-quota-menubar) + AI 编程 Rules | macOS 菜单栏 AI 额度监控小工具（Codex / Grok / Antigravity）与工程规范（免费开源） | `✅ 小工具已开源` |
+| **01** | [**macos-quota-menubar**](https://github.com/hcmango/macos-quota-menubar) + [**ai-coding-rules**](https://github.com/hcmango/ai-coding-rules) | macOS 菜单栏 AI 额度监控小工具（Codex / Grok / Antigravity）与极简 AI 编程规则模板（免费开源） | `✅ 已开源` |
 | **02** | **PS 人生奖杯系统** | 用 Agent 把目标拆成铜/银/金/白金奖杯树 + PlayStation 风格解锁动效 | `📋 排期中` |
 | **03** | **自媒体 Agent 漏斗工作台** | 面向独立创作者的选题与数据复盘工具（边自用边迭代） | `📋 规划中` |
 | **底座** | **`hcmango` AI 全栈 Starter Kit** | 从真实上线项目里抽出来的全栈脚手架与架构规范 | `📋 随项目抽离` |
